@@ -1,0 +1,22 @@
+Financial Markets enable efficient allocation of resources across time and states of nature i.e. all conditions. 
+
+Markets gather information, aggregate liquidity (i.e. supply and demand), and promote efficiency and fairness 
+
+Products offered satisfy needs. Finanical products let you hedge risk, allow speculation, raise funds, and fund liabilities 
+
+You can use discrete (single vs multi period) and continuous time market models. 
+
+This course will focus on Discrete Time Multi-Period Models 
+Less sophisticated mathematics are possible with discrete time models, but there are no closed form solutions. 
+This isn't so much of a problem recently due to the cheapness of computing. 
+
+Financial Economics - use equilibrium arguments to price financial assets and set interest rates 
+Financial Engineering - Assume price of equities and interest are given, price derivatives on equities, bonds, interest rates, etc using NO-ARBITRAGE condition. 
+
+There are three central problems of Financial Engineering 
+1. Security Pricing 
+- Pricing derivative securities based on existing price of primary assets
+2. Portfolio Selection 
+- intimately related to security pricing, surrounds choosing a trading strategy to maximize the utility of consumption and final wealth
+3. Risk management 
+- Understand risks inherent in the portfolio. The portfolio is already chosen, but you need to stress test it. 
